@@ -8,7 +8,4 @@
 | Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
 
 
-我是一个一个
-
-我是
 </div>
