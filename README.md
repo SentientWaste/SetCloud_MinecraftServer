@@ -34,8 +34,7 @@
 - [ ] 服务器宣传网
 
 # 引用与框架
-[Avalonia](https://docs.avaloniaui.net/zh-Hans/docs/next/welcome)
-Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。
+[Avalonia](https://docs.avaloniaui.net/zh-Hans/docs/next/welcome) : Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。
 
 # 感谢与鸣谢
 [西路Baka](https://space.bilibili.com/1098028524/)
