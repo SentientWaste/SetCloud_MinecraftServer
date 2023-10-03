@@ -10,7 +10,7 @@
 # 下载与安装
 您可以前往[Github](https://github.com/SentientWaste/SetCloud_MinecraftServer/releases)上下载，也可以前往[SetCloud](https://qm.qq.com/cgi-bin/qm/qr?k=fncBp57OyANWohInmiQfAwG_D-U1Fsg-&jump_from=webapi&authKey=8JrARk2hMx86Ybr4QHn0aBaWHKOV65Nh52Y6rr9MDpUPQSdHDdKMuJXzCvRFLR65)官方群聊中下载
 
-# 关于作者
+# 作者与自介
 <div align="Left">
   
 | 作者 | 泽托维尔克 |
@@ -22,7 +22,7 @@
 
 
 
-# 当前进度
+# 目标与进度
 
 当前目标: 完成程序
 
@@ -33,4 +33,19 @@
 - [ ] 玩家社区
 - [ ] 服务器宣传网
 
-#
+# 引用与框架
+[Avalonia](https://docs.avaloniaui.net/zh-Hans/docs/next/welcome)
+Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。
+
+# 感谢与鸣谢
+[西路Baka](https://space.bilibili.com/1098028524/)
+提供代码帮助与困难解决。
+
+[Starcloudsea](https://space.bilibili.com/2123349162/)
+提供部分支持
+
+# 技术与开发
+[泽托维尔克](https://space.bilibili.com/1403109864)
+
+# 团队情况
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=3glCB1ODOtbm83YQWnut6EbKaEjxbySE&jump_from=webapi&authKey=V6TVJdLHvnDCI7yMYmxXcHY8o3yVMeST/HDDCr79t+qflbGqNAbtXK9Rsl2okPTA"><img src="https://img.shields.io/badge/团队%E7%9A%84-招人中-brightgreen" alt="徽章"></a>
