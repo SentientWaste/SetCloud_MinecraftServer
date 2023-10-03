@@ -1,0 +1,185 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="SetCloud.PublicSquare">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+			<ColumnDefinition Width="200"/>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<Border BoxShadow="0 4 20 0 #66000000" Background="#E1E1E1" CornerRadius="10" Margin="20 20 10 10" Grid.Row="0">
+			<StackPanel Margin="20 20 20 20" >
+				<TextBlock Text="WelCome 薄广场" FontSize="20"/>
+				<TextBlock Text="更新通告 :" Margin="0 5 0 0"/>
+			</StackPanel>
+		</Border>
+		<Border BoxShadow="0 4 20 0 #66000000"  Background="#E1E1E1" CornerRadius="10" Margin="0 20 0 10" Grid.Row="0" Grid.Column="1">
+			<StackPanel Margin="15 20 10 10" >
+				<TextBlock Margin="0 0 0 0" Text="传送站" FontSize="20"/>
+				<Button CornerRadius="10" Content="→ SetCloud 插件广场">
+					<Button.Styles>
+						<Style Selector="Button">
+							<Setter Property="Width" Value="170"/>
+							<Setter Property="Height" Value="30"/>
+							<Setter Property="Margin" Value="0 10 0 0"/>
+						</Style>
+						<Style Selector="Button:pointerover">
+							<Setter Property="Width" Value="175"/>
+							<Setter Property="Height" Value="35"/>
+							<Setter Property="Margin" Value="-2.5 5 0 0"/>
+						</Style>
+					</Button.Styles>
+					<Button.Transitions>
+						<Transitions>
+							<DoubleTransition Property="Width"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<DoubleTransition Property="Height"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<ThicknessTransition Property="Margin"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+						</Transitions>
+					</Button.Transitions>
+				</Button>
+				<Button CornerRadius="10" Content="→ SetCloud 聊天社区">
+					<Button.Styles>
+						<Style Selector="Button">
+							<Setter Property="Width" Value="170"/>
+							<Setter Property="Height" Value="30"/>
+							<Setter Property="Margin" Value="0 5 0 0"/>
+						</Style>
+						<Style Selector="Button:pointerover">
+							<Setter Property="Width" Value="175"/>
+							<Setter Property="Height" Value="35"/>
+							<Setter Property="Margin" Value="-2.5 5 0 0"/>
+						</Style>
+					</Button.Styles>
+					<Button.Transitions>
+						<Transitions>
+							<DoubleTransition Property="Width"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<DoubleTransition Property="Height"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<ThicknessTransition Property="Margin"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+						</Transitions>
+					</Button.Transitions>
+				</Button>
+				<Button CornerRadius="10" Content="→ SetCloud 建议反馈">
+					<Button.Styles>
+						<Style Selector="Button">
+							<Setter Property="Width" Value="170"/>
+							<Setter Property="Height" Value="30"/>
+							<Setter Property="Margin" Value="0 5 0 0"/>
+						</Style>
+						<Style Selector="Button:pointerover">
+							<Setter Property="Width" Value="175"/>
+							<Setter Property="Height" Value="35"/>
+							<Setter Property="Margin" Value="-2.5 5 0 0"/>
+						</Style>
+					</Button.Styles>
+					<Button.Transitions>
+						<Transitions>
+							<DoubleTransition Property="Width"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<DoubleTransition Property="Height"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<ThicknessTransition Property="Margin"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+						</Transitions>
+					</Button.Transitions>
+				</Button>
+				<Button CornerRadius="10" Content="→ SetCloud 宣传广场">
+					<Button.Styles>
+						<Style Selector="Button">
+							<Setter Property="Width" Value="170"/>
+							<Setter Property="Height" Value="30"/>
+							<Setter Property="Margin" Value="0 5 0 0"/>
+						</Style>
+						<Style Selector="Button:pointerover">
+							<Setter Property="Width" Value="175"/>
+							<Setter Property="Height" Value="35"/>
+							<Setter Property="Margin" Value="-2.5 5 0 0"/>
+						</Style>
+					</Button.Styles>
+					<Button.Transitions>
+						<Transitions>
+							<DoubleTransition Property="Width"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<DoubleTransition Property="Height"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+							<ThicknessTransition Property="Margin"
+											  Duration="0:0:0.35"
+											  Easing="ExponentialEaseOut"/>
+						</Transitions>
+					</Button.Transitions>
+				</Button>
+			</StackPanel>
+		</Border>
+		<ProgressBar IsIndeterminate="True" Grid.Row="1" Grid.Column="0" Width="100" Height="6" x:Name="ProgressBarX"/>
+		<Border x:Name="BorderX"  Opacity="0" BoxShadow="4 5 20 0 #66000000" Background="#E1E1E1" CornerRadius="10" Margin="20 10 10 50" Grid.Row="1" Grid.Column="0">
+				<Image x:Name="ImageX"/>
+		</Border>
+		<Grid Margin="0 10 0 50" Grid.Row="1" Grid.Column="1">
+			<Grid.RowDefinitions>
+				<RowDefinition/>
+				<RowDefinition/>
+			</Grid.RowDefinitions>
+			<Border Margin="0 0 0 10" BoxShadow="4 5 20 0 #66000000" Background="#E1E1E1" CornerRadius="10" Grid.Row="0">
+				<StackPanel Margin="10 10 10 10">
+						<TextBlock Text="- 典藏名诗"/>
+						<TextBlock Text="谁怕？一蓑烟雨任平生。" Margin="0 5 0 0" />
+				</StackPanel>
+			</Border>
+			<Border BoxShadow="4 5 20 0 #66000000" Background="#E1E1E1" CornerRadius="10" Grid.Row="1">
+
+			</Border>
+		</Grid>
+		<Border BoxShadow="0 4 20 0 #66000000" Background="#E1E1E1" CornerRadius="10" Margin="10 20 20 10" Grid.Row="0" Grid.Column="2">
+			<Grid>
+				<Grid.RowDefinitions>
+					<RowDefinition Height="50"/>
+					<RowDefinition/>
+					<RowDefinition Height="50"/>
+				</Grid.RowDefinitions>
+				<Border Grid.Row="0" Background="#CECECE" CornerRadius="10 10 0 0">
+					<WrapPanel Margin="12">
+						<TextBlock Text="集韵乐台" FontSize="20"/>
+					</WrapPanel>
+				</Border>
+				<StackPanel Margin="10" Grid.Row="1">
+					<WrapPanel HorizontalAlignment="Center">
+						<TextBlock Text="暂无播放曲目"/>
+					</WrapPanel>
+				</StackPanel>
+				<Border Grid.Row="2" Background="#CECECE" CornerRadius="0 0 10 10">
+					<Grid Margin="10 10 10 10">
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition/>
+							<ColumnDefinition/>
+						</Grid.ColumnDefinitions>
+						<Button Content="→前往音乐厅" Width="120" CornerRadius="10" Grid.Column="0"/>
+						<Button Margin="10 0 0 0" Width="120" CornerRadius="10" Grid.Column="2" Content="→前往本地库"/>
+					</Grid>
+				</Border>
+			</Grid>
+		</Border>
+	</Grid>
+</UserControl>

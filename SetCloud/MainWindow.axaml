@@ -1,0 +1,192 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" Width="900" Height="450"
+        x:Class="SetCloud.MainWindow"
+        Title="SetCloud">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition Height="50"/>
+		</Grid.RowDefinitions>
+		<Image x:Name="ImageBackgroundControl" HorizontalAlignment="Stretch" Stretch="UniformToFill">
+			<Image.Effect>
+				<BlurEffect Radius="64"/>
+			</Image.Effect>
+		</Image>
+		<ContentControl Margin="0 0 0 0" x:Name="MenuContentControl">
+			<ContentControl.Transitions>
+				<Transitions>
+					<ThicknessTransition Property="Margin"
+									  Duration="0:0:0.35"
+									  Easing="ExponentialEaseOut"/>
+				</Transitions>
+			</ContentControl.Transitions>
+		</ContentControl>
+		<Border x:Name="Menu1" Height="50" Background="#E1E1E1" Grid.Row="1">
+			<Grid>
+				<WrapPanel x:Name="MenuOpenWrapPanel">
+					<Button Click="OpenMenu" x:Name="MenuButton" CornerRadius="30" Margin="20 10 0 0" Content="↑"/>
+					<Button CornerRadius="30" Margin="10 10 0 0" x:Name="userName"/>
+					<WrapPanel.Transitions>
+						<Transitions>
+							<DoubleTransition Property="Height"
+											  Duration="0:0:2"
+											  Easing="ExponentialEaseOut"/>
+							<ThicknessTransition Property="Margin"
+												 Duration="0:0:1"
+												 Easing="ExponentialEaseOut"/>
+						</Transitions>
+					</WrapPanel.Transitions>
+				</WrapPanel>
+				<StackPanel Margin="0 500 0 0" Height="150" x:Name="StackPanelMenu">
+					<WrapPanel>
+						<Border Width="55" Height="160" Background="#D8D8D8">
+							<StackPanel>
+								<Button Click="CloseMenu" CornerRadius="30" Margin="10 10 0 0" Content="↓"/>
+							</StackPanel>
+						</Border>
+						<WrapPanel x:Name="ItemsWrapPanel" Margin="0 500 0 0">
+							<Button Content="控制台" Click="ControlPageButton">
+								<Button.Styles>
+									<Style Selector="Button">
+										<Setter Property="Height" Value="80"/>
+										<Setter Property="Width" Value="80"/>
+										<Setter Property="Margin" Value="10 0 0 0"/>
+									</Style>
+									<Style Selector="Button:pointerover">
+										<Setter Property="Width" Value="90"/>
+										<Setter Property="Height" Value="90"/>
+										<Setter Property="Margin" Value="10 -5 0 0"/>
+									</Style>
+								</Button.Styles>
+								<Button.Transitions>
+									<Transitions>
+										<DoubleTransition Property="Width"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<DoubleTransition Property="Height"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<ThicknessTransition Property="Margin"
+													      Duration="0:0:0.35"
+													      Easing="ExponentialEaseOut"/>
+									</Transitions>
+								</Button.Transitions>
+							</Button>
+							<Button Content="安装站">
+								<Button.Styles>
+									<Style Selector="Button">
+										<Setter Property="Height" Value="80"/>
+										<Setter Property="Width" Value="80"/>
+										<Setter Property="Margin" Value="10 0 0 0"/>
+									</Style>
+									<Style Selector="Button:pointerover">
+										<Setter Property="Width" Value="90"/>
+										<Setter Property="Height" Value="90"/>
+										<Setter Property="Margin" Value="10 -5 0 0"/>
+									</Style>
+								</Button.Styles>
+								<Button.Transitions>
+									<Transitions>
+										<DoubleTransition Property="Width"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<DoubleTransition Property="Height"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<ThicknessTransition Property="Margin"
+													      Duration="0:0:0.35"
+													      Easing="ExponentialEaseOut"/>
+									</Transitions>
+								</Button.Transitions>
+							</Button>
+							<Button Content="设置器">
+								<Button.Styles>
+									<Style Selector="Button" >
+										<Setter Property="Height" Value="80"/>
+										<Setter Property="Width" Value="80"/>
+										<Setter Property="Margin" Value="10 0 0 0"/>
+									</Style>
+									<Style Selector="Button:pointerover">
+										<Setter Property="Width" Value="90"/>
+										<Setter Property="Height" Value="90"/>
+										<Setter Property="Margin" Value="10 -5 0 0"/>
+									</Style>
+								</Button.Styles>
+								<Button.Transitions>
+									<Transitions>
+										<DoubleTransition Property="Width"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<DoubleTransition Property="Height"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<ThicknessTransition Property="Margin"
+													      Duration="0:0:0.35"
+													      Easing="ExponentialEaseOut"/>
+									</Transitions>
+								</Button.Transitions>
+							</Button>
+							<Button Content="薄广场" Click="Square">
+								<Button.Styles>
+									<Style Selector="Button" >
+										<Setter Property="Height" Value="80"/>
+										<Setter Property="Width" Value="80"/>
+										<Setter Property="Margin" Value="10 0 0 0"/>
+									</Style>
+									<Style Selector="Button:pointerover">
+										<Setter Property="Width" Value="90"/>
+										<Setter Property="Height" Value="90"/>
+										<Setter Property="Margin" Value="10 -5 0 0"/>
+									</Style>
+								</Button.Styles>
+								<Button.Transitions>
+									<Transitions>
+										<DoubleTransition Property="Width"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<DoubleTransition Property="Height"
+														  Duration="0:0:0.35"
+														  Easing="ExponentialEaseOut"/>
+										<ThicknessTransition Property="Margin"
+													      Duration="0:0:0.35"
+													      Easing="ExponentialEaseOut"/>
+									</Transitions>
+								</Button.Transitions>
+							</Button>
+							<WrapPanel.Transitions>
+								<Transitions>
+									<DoubleTransition Property="Height"
+													  Duration="0:0:2"
+													  Easing="ExponentialEaseOut"/>
+									<ThicknessTransition Property="Margin"
+														 Duration="0:0:2"
+														 Easing="ExponentialEaseOut"/>
+								</Transitions>
+							</WrapPanel.Transitions>
+						</WrapPanel>
+					</WrapPanel>
+					<StackPanel.Transitions>
+						<Transitions>
+							<DoubleTransition Property="Height"
+											  Duration="0:0:2"
+											  Easing="ExponentialEaseOut"/>
+							<ThicknessTransition Property="Margin"
+												 Duration="0:0:1"
+												 Easing="ExponentialEaseOut"/>
+						</Transitions>
+					</StackPanel.Transitions>
+				</StackPanel>
+			</Grid>
+			<Border.Transitions>
+				<Transitions>
+					<DoubleTransition Property="Height"
+									  Duration="0:0:1"
+									  Easing="ExponentialEaseOut"/>
+				</Transitions>
+			</Border.Transitions>
+		</Border>
+	</Grid>
+</Window>
