@@ -1,7 +1,7 @@
 <div align="Center">
 
 
-![LOGO](https://img1.imgtp.com/2023/10/03/A0X1BIks.png)  
+![LOGO](LOGO.png)  
 # SetCloud
 
 </div>
