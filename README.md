@@ -1,7 +1,8 @@
 <div align="Center">
 
 
-<img src="LOGO.png" alt="text">
+<img height=120 weight=120 src="LOGO.png" alt="text">
+
 # SetCloud
 
 </div>
