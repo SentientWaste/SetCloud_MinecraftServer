@@ -49,58 +49,5 @@
 # 技术与开发
 [泽托维尔克](https://space.bilibili.com/1403109864)
 
-<div align="Left">
-  
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-| 作者 | 泽托维尔克 |
-| ---------- | -----------|
-| Bilibili | <a href="https://space.bilibili.com/1403109864"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Bilibili-brightgreen" alt="徽章"></a> |
-| Github | <a href="https://github.com/SentientWaste"><img src="https://img.shields.io/badge/泽托维尔克%E7%9A%84-Github-brightgreen" alt="徽章"></a> |
-
-</div>
-
 # 团队情况
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=3glCB1ODOtbm83YQWnut6EbKaEjxbySE&jump_from=webapi&authKey=V6TVJdLHvnDCI7yMYmxXcHY8o3yVMeST/HDDCr79t+qflbGqNAbtXK9Rsl2okPTA"><img src="https://img.shields.io/badge/团队%E7%9A%84-招人中-brightgreen" alt="徽章"></a>
