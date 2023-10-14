@@ -75,7 +75,7 @@
 									</Transitions>
 								</Button.Transitions>
 							</Button>
-							<Button Content="安装站">
+							<Button Content="安装站" Click="DownloadX">
 								<Button.Styles>
 									<Style Selector="Button">
 										<Setter Property="Height" Value="80"/>

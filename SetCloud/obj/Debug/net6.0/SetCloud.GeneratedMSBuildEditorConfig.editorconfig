@@ -24,5 +24,8 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [C:/Users/Sentient/Desktop/项目/SetCloud/SetCloud/Pages/ControlPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/Sentient/Desktop/项目/SetCloud/SetCloud/Pages/DownloadPage.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/Sentient/Desktop/项目/SetCloud/SetCloud/Pages/PublicSquare.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

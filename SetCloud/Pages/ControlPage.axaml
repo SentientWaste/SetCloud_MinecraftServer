@@ -4,10 +4,5 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="SetCloud.Pages.ControlPage">
-	<Grid>
-		<ListBox>
-			<ListBoxItem Content="实列1"/>
-			<ListBoxItem Content="实列2"/>
-		</ListBox>
-	</Grid>
+	
 </UserControl>

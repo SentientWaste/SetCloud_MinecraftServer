@@ -1,0 +1,5 @@
+C:\Users\Sentient\Desktop\发布\SetCloud.pdb
+C:\Users\Sentient\Desktop\发布\av_libglesv2.dll
+C:\Users\Sentient\Desktop\发布\libHarfBuzzSharp.dll
+C:\Users\Sentient\Desktop\发布\libSkiaSharp.dll
+C:\Users\Sentient\Desktop\发布\SetCloud.exe

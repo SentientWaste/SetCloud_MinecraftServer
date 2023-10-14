@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sentient\\Desktop\\项目\\SetCloud\\SetCloud\\SetCloud.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sentient\\Desktop\\项目\\SetCloud\\SetCloud\\SetCloud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sentient\\Desktop\\项目\\SetCloud\\SetCloud\\SetCloud.csproj",
+        "projectName": "SetCloud",
+        "projectPath": "C:\\Users\\Sentient\\Desktop\\项目\\SetCloud\\SetCloud\\SetCloud.csproj",
+        "packagesPath": "C:\\Users\\Sentient\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sentient\\Desktop\\项目\\SetCloud\\SetCloud\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sentient\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

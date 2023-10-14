@@ -65,6 +65,12 @@ namespace SetCloud
             MenuContentControl.Margin = new Thickness(0, -160, 0, 0);
             MenuContentControl.Content = new PublicSquare();
         }
+
+        private void DownloadX(object sender, RoutedEventArgs e)
+        {
+            MenuContentControl.Margin = new Thickness(0, -160, 0, 0);
+            MenuContentControl.Content = new DownloadPage();
+        }
         public void BackgroundImageX()
         {
             MenuContentControl.Margin = new Thickness(0, -160, 0, 0);
