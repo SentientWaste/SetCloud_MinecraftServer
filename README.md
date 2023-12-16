@@ -1,17 +1,11 @@
 <div align="Center">
 
-
-<img height=250 weight=250 src="LOGO.png">
-
 # SetCloud
 
 </div>
 
 # 了解与介绍
-`SetCloud`是一个`方便`，`快捷`，`实用`的开服器，支持下载服务端，宣传服务器，Java运行时安装，拥有集云电台，可以让您在使用途中放松心情。支持`高度DIY`，打造属于您的开服器。
-
-# 下载与安装
-您可以前往[Github](https://github.com/SentientWaste/SetCloud_MinecraftServer/releases)上下载，也可以前往[SetCloud](https://qm.qq.com/cgi-bin/qm/qr?k=fncBp57OyANWohInmiQfAwG_D-U1Fsg-&jump_from=webapi&authKey=8JrARk2hMx86Ybr4QHn0aBaWHKOV65Nh52Y6rr9MDpUPQSdHDdKMuJXzCvRFLR65)官方群聊中下载
+`Bright`是一个`方便`，`快捷`，`实用`的`Minecraft启动器`，支持下载游戏核心，宣传服务器，Java运行时安装，可以让您在使用途中放松心情。支持`高度DIY`，打造属于您的`Minecraft启动器`。
 
 # 作者与自介
 <div align="Left">
@@ -30,9 +24,9 @@
 当前目标: 完成程序
 
 - [x] 用户界面
-- [x] 集云广场
-- [x] 集云电台
-- [ ] 启动服务器与下载
+- [x] 灯泡广场
+- [x] 灯泡电台
+- [ ] 启动游戏与下载游戏
 - [ ] 玩家社区
 - [ ] 服务器宣传网
 
